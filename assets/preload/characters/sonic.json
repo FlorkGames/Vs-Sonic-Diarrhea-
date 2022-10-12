@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				200,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic Idle"
+		},
+		{
+			"offsets": [
+				211,
+				259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic Left"
+		},
+		{
+			"offsets": [
+				201,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic Down"
+		},
+		{
+			"offsets": [
+				165,
+				302
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic Up"
+		},
+		{
+			"offsets": [
+				202,
+				215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonic_Assets",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		99,
+		117
+	],
+	"camera_position": [
+		-300,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}
